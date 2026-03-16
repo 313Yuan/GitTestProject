@@ -1,0 +1,7 @@
+package com.fzy.gittestproject.demos.web;
+
+public class test {
+    test(){
+        System.out.println("test1");
+    }
+}
